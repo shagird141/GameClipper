@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+clips/
+uploads/
+*.mp4
+*.mkv
+*.avi
+*.mov
+main_backup.py
